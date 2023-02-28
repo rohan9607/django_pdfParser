@@ -7,4 +7,4 @@ Then i learnt it and add this script into the view and hosted it on server then 
 # How to Use it
 1) Make a simple local envirnment on your local machine for python and django and djangorestframework
 2) then to start server simply type : $ python manage.py runserver
-3) Using postman send financial statement pdf file (should not contain scanned copy) in form data and then watch reponse
+3) Using postman send financial statement pdf file (should not contain scanned copy) in form data and then watch response
